@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338153250546",
+    "project_id": "wearos-bpm",
+    "storage_bucket": "wearos-bpm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338153250546:android:8e3d45ab2b538621e97a6b",
+        "android_client_info": {
+          "package_name": "com.ishantejas.accbtproj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3osK8dyM9PdQ3vhaUsuovDorDLqlhRRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
