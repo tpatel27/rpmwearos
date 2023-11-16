@@ -1,4 +1,4 @@
 # WearOS-Android
 ======================
 
-This repository contains a set of individual Android Studio projects to help you get started writing Wear OS apps and watch.
+This repository contains a set of Wear OS and companion app project for PROJ-611-001.
